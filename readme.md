@@ -3,8 +3,9 @@ Pierwszy mój layout zakodowany z PSD ze strony www.theawwwesomes.org
 
 
 
-##Technologie:
-html css
+## Technologie:
+*html 
+*css
 
 demo:https://dorotaniemyjska.github.io/We-Create/
 
