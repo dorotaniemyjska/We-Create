@@ -6,7 +6,7 @@ Pierwszy mój layout zakodowany z PSD ze strony www.theawwwesomes.org
 ##Technologie:
 html css
 
-demo:https://dorotaniemyjska.github.io/Layout-We-Create/
+demo:https://dorotaniemyjska.github.io/We-Create/
 
 
 
