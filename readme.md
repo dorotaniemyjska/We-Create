@@ -1,14 +1,16 @@
 # We Create - layout do zakodowania z The Awwwesomes
-Pierwszy mój layout zakodowany z PSD ze strony www.theawwwesomes.org
+
+## demo
+https://dorotaniemyjska.github.io/We-Create/
 
 
-
-## Technologie:
+## Technologies
 * html 
 * css
 
-demo:https://dorotaniemyjska.github.io/We-Create/
+## Sources
+theawwwesomes 
 
 
+### Pierwszy mój layout zakodowany z PSD ze strony www.theawwwesomes.org
 
- ##### theawwwesomes
